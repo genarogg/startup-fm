@@ -2197,3 +2197,12 @@
   overflow: visible;
   clip: auto;
 }
+
+::-webkit-scrollbar{
+	width: 7px;
+}
+
+::-webkit-scrollbar-thumb{
+    background: #019851;
+    border-radius: 4px;
+}
